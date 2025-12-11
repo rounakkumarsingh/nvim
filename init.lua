@@ -1,2 +1,2 @@
-require("config.lazy")
 require("rounakkumarsingh")
+require("config.lazy")
